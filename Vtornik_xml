@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<"lessons">
+    <"day">"Вт"</"day">
+    <lesson>
+        <"time">"8:20-9:50"</"time">
+        <"room">""</"room">
+        <"lesson-name">"ИНФОРМАТИКА(ЛЕК) ZOOM Балакшин Павел Валерьевич"</"lesson-name">
+        <"lesson-format">"Дистанционно"</"lesson-format">
+    </lesson>
+    <lesson>
+        <"time">"8:20-9:50"</"time">
+        <"room">"2308 (БЫВШ. 306) АУД. Кронверкский пр., д.49, лит.А"</"room">
+        <"lesson-name">"ИНФОРМАТИКА(ЛАБ) четная неделя Машина Екатерина Алексеевна"</"lesson-name">
+        <"lesson-format">"Очно - дистанционный"</"lesson-format">
+    </lesson>
+    <lesson>
+        <"time">"8:20-9:50"</"time">
+        <"room">"ул.Ломоносова, д.9, лит. М"</"room">
+        <"lesson_name">"ИНФОРМАТИКА(ЛЕК) АКТОВЫЙ ЗАЛ Балакшин Павел Валерьевич"</"lesson_name">
+        <"lesson-format">"Очно - дистанционный"</"lesson-format">
+    </lesson>
+    <lesson>
+        <"time">"10:00-11:30"</"time">
+        <"room">"ул.Ломоносова, д.9, лит. М"</"room">
+        <"lesson-name">"ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК) АКТОВЫЙ ЗАЛ Клименков Сергей Викторович"</"lesson-name">
+        <"lesson-format">"Очно - дистанционный"</"lesson-format">
+    </lesson>
+    <lesson>
+        <"time">"10:00-11:30"</"time">
+        <"room">""</"room">
+        <"lesson-name">"ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК) ZOOM Клименков Сергей Викторович"</"lesson-name">
+        <"lesson-format">"Дистанционный"</"lesson-format">
+    </lesson>
+    <lesson>
+        <"time">"10:00-11:30"</"time">
+        <"room">"2308 (БЫВШ. 306) АУД. Кронверкский пр., д.49, лит.А"</"room">
+        <"lesson-name">"ИНФОРМАТИКА(ЛАБ) четная неделя Машина Екатерина Алексеевна"</"lesson-name">
+        <"lesson-format">"Очно - дистанционный"</"lesson-format">
+    </lesson>
+    <lesson>
+        <"time">"11:40-13:10"</"time">
+        <"room">"2308 (БЫВШ. 306) АУД. Кронверкский пр., д.49, лит.А"</"room">
+        <"lesson-name">"ПРОГРАММИРОВАНИЕ(ЛАБ) четная неделя Чагина Инна Николаевна"</"lesson-name">
+        <"lesson-format">"Очно - дистанционный"</"lesson-format">
+    </lesson>
+    <lesson>
+        <"time">"11:40-13:10"</"time">
+        <"room">""</"room">
+        <"lesson-name">"ПРОГРАММИРОВАНИЕ(ЛЕК) ZOOM Письмак Алексей Евгеньевич"</"lesson-name">
+        <"lesson-format">"Дистанционно"</"lesson-format">
+    </lesson>
+    <lesson>
+        <"time">"8:20-9:50"</"time">
+        <"room">"ул.Ломоносова, д.9, лит. М"</"room">
+        <"lesson-name">"ПРОГРАММИРОВАНИЕ(ЛЕК) ZOOM Письмак Алексей Евгеньевич"</"lesson-name">
+        <"lesson-format">"Очно-дистанционный"</"lesson-format">
+    </lesson>
+    <lesson>
+        <"time">"13:30-15:00"</"time">
+        <"room">"2308 (БЫВШ. 306) АУД. Кронверкский пр., д.49, лит.А"</"room">
+        <"lesson-name">"ПРОГРАММИРОВАНИЕ(ЛАБ) четная неделя Чагина Инна Николаевна"</"lesson-name">
+        <"lesson-format">"Очно - дистанционный"</"lesson-format">
+    </lesson>
+</lessons>
